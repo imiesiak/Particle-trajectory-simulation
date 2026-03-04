@@ -1,0 +1,21 @@
+# Byte-compiled / optimized files (This covers __pycache__)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments (where your packages get installed)
+venv/
+env/
+.venv/
+
+# Secrets and environment variables
+.env
+
+# IDE and Editor configuration folders
+.vscode/
+.idea/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
